@@ -155,7 +155,7 @@ h1{
     width: 500px;
     height: 500px;
     margin: 10px;
-    background-image: url("images/bebes.jpeg");
+    background-image: url("./images/bebes.jpeg");
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -164,7 +164,7 @@ h1{
     width: 500px;
     height: 500px;
     margin: 10px;
-    background-image: url("images/ninos.jpeg");
+    background-image: url("./images/ninos.jpeg");
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -173,7 +173,7 @@ h1{
     width: 500px;
     height: 500px;
     margin: 10px;
-    background-image: url("images/FotoMujer1.jpeg");
+    background-image: url("./images/FotoMujer1.jpeg");
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -190,7 +190,7 @@ h1{
 #imgMujer2{   
     width: 500px;
     height: 500px;
-    background-image: url("images/FotoMujer2.jpeg");
+    background-image: url("./images/FotoMujer2.jpeg");
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
